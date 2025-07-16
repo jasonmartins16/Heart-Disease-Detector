@@ -8,3 +8,13 @@ This project predicts the likelihood of heart disease in patients using machine 
 ->Web interface built with HTML and Tailwind CSS for user-friendly input.
 ->Displays both prediction (Normal / Heart Disease) and risk probability.
 ->Custom threshold adjustment to improve sensitivity for heart disease detection.
+
+# Tech Stack
+Python, Pandas, Scikit-learn, Joblib
+
+FastAPI for backend
+
+HTML + Tailwind CSS for frontend
+
+Matplotlib / Seaborn for data visualization
+
